@@ -36,26 +36,22 @@ Play to each others strengths and communicate to improve both of our knowledge l
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
-<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
+Books are life-changing. They have the power to enlighten, educate, entertain, heal, and help us grow. This app aims to let users keep track of books that have impacted them the most.
 
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
 
 ## Architecture
-<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+Languages: Javascript
+Technology: ReactJS, Node.js, MongoDB.
 
 ## Change Log
-<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
-
-01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
-
-## Estimates
-<!-- See below -->
+6:20pm 11/8/2021: Completed lab 11 - fucntional database with seed books and front end requests.
 
 ## Credit and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
+Collaboration between Min Xie and Kirk Garrison
 
-
+## Estimates
 
 Name of feature: Lab 11
 
@@ -63,6 +59,6 @@ Estimate of time needed to complete: 3 Hours
 
 Start time: 2:40pm
 
-Finish time: _____
+Finish time: 6:20pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: around 3.5 hours. 1.5 hours for the backend and then 2 hours for the frontend.
