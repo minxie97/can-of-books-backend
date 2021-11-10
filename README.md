@@ -62,3 +62,13 @@ Start time: 2:40pm
 Finish time: 6:20pm
 
 Actual time needed to complete: around 3.5 hours. 1.5 hours for the backend and then 2 hours for the frontend.
+
+Name of feature: Lab 12
+
+Estimate of time needed to complete: 3 Hours
+
+Start time: 2:40pm
+
+Finish time: 6:30pm
+
+Actual time needed to complete: 3:50
