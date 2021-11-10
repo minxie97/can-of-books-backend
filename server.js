@@ -23,7 +23,7 @@ const PORT = process.env.PORT || 3001;
 
 app.get('/books', handleBooks)
 app.post('/books', handlePostBooks)
-app.delete('/books', handleDeleteBooks)
+app.delete('/books/:id', handleDeleteBooks)
 
 async function handleBooks(req, res) {
   let queryObj = {};
