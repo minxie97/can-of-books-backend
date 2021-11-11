@@ -59,9 +59,9 @@ Estimate of time needed to complete: 3 Hours
 
 Start time: 2:40pm
 
-Finish time: 6:20pm
+Finish time: 6:40pm
 
-Actual time needed to complete: around 3.5 hours. 1.5 hours for the backend and then 2 hours for the frontend.
+Actual time needed to complete: 4 hours.
 
 Name of feature: Lab 12
 
@@ -72,3 +72,23 @@ Start time: 2:40pm
 Finish time: 6:30pm
 
 Actual time needed to complete: 3:50
+
+Name of feature: Lab 13
+
+Estimate of time needed to complete: 3 hours
+
+Start time: 1:45pm
+
+Finish time: 6:15pm
+
+Actual time needed to complete: 4.5 hours
+
+Name of feature: Lab 14
+
+Estimate of time needed to complete: _____
+
+Start time: ____
+
+Finish time: ____
+
+Actual time needed to complete: ____
