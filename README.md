@@ -36,22 +36,36 @@ Play to each others strengths and communicate to improve both of our knowledge l
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
-Books are life-changing. They have the power to enlighten, educate, entertain, heal, and help us grow. This app aims to let users keep track of books that have impacted them the most.
+<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
+This application allows a user to log in, and view a collection of books. They can add new books, update their current collection of books, and delete books from their collection. 
+We used the RESTful methods to implement these features, as well as Auth0 for securely logging into your profile.
 
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+They must be familiar with React and axios, as well as using the RESTful methods. You would need familiarity with API server's and how they communicate with a front end website to provide information.
 
 ## Architecture
-Languages: Javascript
-Technology: ReactJS, Node.js, MongoDB.
+<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+This application was designed with React, JavaScript, React-Bootstrap, React-router, Axios, CSS, and Auth0
 
 ## Change Log
-6:20pm 11/8/2021: Completed lab 11 - fucntional database with seed books and front end requests.
+<!-- Use this area to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 
-## Credit and Collaborations
-Collaboration between Min Xie and Kirk Garrison
+01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
+11/08/2021 6:40pm - Application set up completed. Both Front and Back-end. Mongoose brought in with schema and keys.
+Get route functioning so user now has collection of books upon login.
+11/09/2021 6:30pm - Application now has Post and Delete methods functioning. Added Modal form so the user can input information about the book they are adding, and view that book inside of their collection. User can now also delete any book present in their collection.
+11/10/2021 6:15pm - Application now has update form for their book collection. The user can now click to update their book, and a form populates allowing them to edit details about any of their books.
+11/13/2021 6:30pm - Application now has Auth0 authentication added. The user may sign in with Auth0 securely and their book collection is presented upon login.
 
 ## Estimates
+<!-- See below -->
+
+## Credit and Collaborations
+<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
+Kirk Garrison was my partner for this collaborated project.
+
+
 
 Name of feature: Lab 11
 
@@ -85,10 +99,10 @@ Actual time needed to complete: 4.5 hours
 
 Name of feature: Lab 14
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 4 hours
 
-Start time: ____
+Start time: 1:30pm
 
-Finish time: ____
+Finish time: 5:30pm
 
-Actual time needed to complete: ____
+Actual time needed to complete: 4 hours
